@@ -1,12 +1,6 @@
 # taro-nutui-demo
 
-## taro 是什么
-
-## 为什么选择 taro
-
-## taro 详细介绍
-
-## taro 项目示例
+[toc]
 
 ```sh
 # 1. 初始化项目
